@@ -11,3 +11,6 @@ En este pequeño proyecto, quise realizar un pequeño reloj basado en las siguie
 Dependiendo del tramo horario en el que nos encontremos, el reloj lo mostrará para así saber en que momento nos encontramos y decidir si poner o no determinados electrodomésticos o diospositivos eléctricos. Además, cuenta con indicación del voltaje de la batería.
 
 ![Pantalla principal](https://i.ibb.co/5F7vK4N/IMG-20220520-125231.jpg)![Pantalla secundaria](https://i.ibb.co/NrcykVJ/IMG-20220520-125235.jpg)
+
+
+El proyecto está en una fase muy temprana, pero por motivos personales, tuve que dejarlo pausado. 
